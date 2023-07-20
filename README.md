@@ -14,7 +14,7 @@ Trí tuệ Nhân tạo (Artificial Intelligence) đang là một trong những l
 
 Dự án này tập trung vào cách sử dụng mô hình Linear và Non-linear Regression giải quyết bài toán dự đoán lương trên tập dữ liệu Salaries.
 
-![Project 1](images/images/Linear Regression.png)
+![Project 1](images/Linear Regression.png)
 
 ### 2. Text Project
 
@@ -22,7 +22,11 @@ Dự án này gồm 2 phần:
   + Phần 1: sử dụng Vector Space Model để truy xuất đoạn text phù hợp với Query từ 1 phần của bộ dữ liệu MSMARCO.
   + Phần 2: sử dụng Bert Transformer Pretrain model để thực hiện công việc trên.
 
-![Project 2](images/Text Retrieval.png)
+![Project 2](images/Text Retrieval.jpg)
+
+### 3. Image Project
+
+![Project 3](images/Depth.jpg)
 
 ## Hướng dẫn sử dụng
 
