@@ -1,30 +1,32 @@
 # Kho lưu trữ các Projects Trí tuệ Nhân tạo (AI) - AI Vietnam
 
-![AI Projects](images/ai_icon.png)
+![AI Projects](images/Ai.jpg)
 
 Chào mừng đến với kho lưu trữ các dự án liên quan đến Trí tuệ Nhân tạo (AI). Trong đây, bạn sẽ tìm thấy các dự án, bài toán và bài tập liên quan đến lĩnh vực AI mà chúng tôi đã thực hiện.
 
 ## Giới thiệu
 
-Trí tuệ Nhân tạo (Artificial Intelligence) đang là một trong những lĩnh vực hứa hẹn nhất trong thế giới công nghệ hiện đại. Kho lưu trữ này được tạo ra nhằm chia sẻ và trình bày các dự án AI mà chúng tôi đã thực hiện trong quá trình học tập và nghiên cứu.
+Trí tuệ Nhân tạo (Artificial Intelligence) đang là một trong những lĩnh vực hứa hẹn nhất trong thế giới công nghệ hiện đại. Kho lưu trữ này được tạo ra nhằm chia sẻ và trình bày các dự án AI mà chúng tôi đã thực hiện trong quá trình học tập và nghiên cứu trong khóa học AIO course 2023 của AI Việt Nam.
 
 ## Các Dự án và Bài tập
 
-### 1. Tên Dự án 1
+### 1. Tabular Project:
 
-Mô tả ngắn về dự án 1 và các bài toán liên quan.
+Dự án này tập trung vào cách sử dụng mô hình Linear và Non-linear Regression giải quyết bài toán dự đoán lương trên tập dữ liệu Salaries.
 
-![Project 1](images/project1_screenshot.png)
+![Project 1](images/Linear Regression.jpg)
 
-### 2. Tên Dự án 2
+### 2. Text Project
 
-Mô tả ngắn về dự án 2 và các bài toán liên quan.
+Dự án này gồm 2 phần: 
+  + Phần 1: sử dụng Vector Space Model để truy xuất đoạn text phù hợp với Query từ 1 phần của bộ dữ liệu MSMARCO.
+  + Phần 2: sử dụng Bert Transformer Pretrain model để thực hiện công việc trên.
 
-![Project 2](images/project2_screenshot.png)
+![Project 2](images/Text Retrieval.jpg)
 
 ## Hướng dẫn sử dụng
 
-Đối với mỗi dự án, chúng tôi sẽ cung cấp hướng dẫn sử dụng và cài đặt để bạn có thể dễ dàng thử nghiệm và tìm hiểu thêm về các giải thuật AI được áp dụng.
+Đối với mỗi dự án, tôi thực hiện tất cả trên Jupyter Notebook, mỗi Project tôi đều cung cấp Dataset để các bạn có thể dễ dàng tham khảo.
 
 ## Đóng góp
 
